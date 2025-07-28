@@ -1,4 +1,6 @@
 📄 Document Outline Extractor – Challenge 1A (Connecting the Dots)
+
+
 🔍 Project Overview
 This solution is developed for Round 1A of Adobe’s Connecting the Dots hackathon. The challenge demands a robust, deterministic, and offline-capable system that can extract a structured outline from a PDF document. The extracted output must include the document’s title, along with H1, H2, and H3 headings—each annotated with its level and page number—and delivered in a clean JSON format.
 The goal is to make sense of a PDF like a machine would, laying the groundwork for intelligent document interaction, semantic search, and insight generation.
