@@ -2,10 +2,12 @@
 
 
 🔍 Project Overview
+
 This solution is developed for Round 1A of Adobe’s Connecting the Dots hackathon. The challenge demands a robust, deterministic, and offline-capable system that can extract a structured outline from a PDF document. The extracted output must include the document’s title, along with H1, H2, and H3 headings—each annotated with its level and page number—and delivered in a clean JSON format.
 The goal is to make sense of a PDF like a machine would, laying the groundwork for intelligent document interaction, semantic search, and insight generation.
 
 🧠 Approach
+
 The solution adopts a rule-based, multi-factor heuristic approach to analyze the structure of PDF documents. It does not rely on any machine learning models, ensuring compliance with the strict constraints of no external dependencies, offline operation, and low runtime overhead.
 Key Components of the Logic:
 •	Title Extraction:
