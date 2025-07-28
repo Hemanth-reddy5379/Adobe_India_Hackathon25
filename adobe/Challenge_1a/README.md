@@ -28,6 +28,7 @@ While optimized for English, the solution supports Unicode text, making it compa
 Outputs are fully deterministic—identical inputs will always produce identical outputs, aiding reproducibility and debugging.
 ________________________________________
 📚 Libraries Used
+
 This solution uses the following Python libraries:
 •	[PyMuPDF (fitz)]: For accessing and parsing PDF content, including layout, fonts, text blocks, and positioning. This is the primary engine for reading and analyzing PDF files.
 •	[pdfplumber] (optional or auxiliary): Useful for validating extracted content or refining font-based analysis.
@@ -36,6 +37,7 @@ This solution uses the following Python libraries:
 ❗ No machine learning models, cloud APIs, or internet-based services are used. The entire solution runs offline on CPU, satisfying all challenge constraints.
 ________________________________________
 ⚙️ How to Build and Run the Solution
+
 Although the official execution will be handled using predefined commands during evaluation, the following steps outline how one can build and test the solution locally or in a containerized environment.
 Option 1: Using Docker (Recommended)
 1.	Build the Docker image:
@@ -54,6 +56,7 @@ Option 2: Running Locally (Without Docker)
 7.	Review results inside the output/ directory.
 ________________________________________
 📦 Output Format
+
 Each output is a valid JSON file containing the following structure:
 {
   "title": "Extracted Document Title",
@@ -65,6 +68,7 @@ Each output is a valid JSON file containing the following structure:
 }
 ________________________________________
 ✅ Compliance Summary
+
 Constraint	Status	Notes
 Max Pages (≤ 50)	✅	Efficiently handles full 50-page documents
 No ML Model (>200MB)	✅	Pure heuristic approach
