@@ -1,0 +1,190 @@
+{
+  "title": "Adobe_India_Hackathon_-_Challenge_Doc",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Welcome to the “Connecting the Dots” Challenge ",
+      "page": 1
+    },
+    {
+      "level": "H2",
+      "text": "Rethink Reading. Rediscover Knowledge ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "3. Sample Dockerfile ",
+      "page": 3
+    },
+    {
+      "level": "H1",
+      "text": "4. Sample Solution ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Docker Requirements ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Expected Execution ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Your container should: ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Constraints ",
+      "page": 3
+    },
+    {
+      "level": "H2",
+      "text": "Model size  ≤ 200MB (if used) ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "No internet access ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "16 GB RAM configurations ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Scoring Criteria ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Heading Detection Accuracy (Precision + ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Submission Checklist ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "2. A working Dockerfile ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "3. All dependencies installed within the container ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "4. A README.md that explains: ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "Pro Tips ",
+      "page": 4
+    },
+    {
+      "level": "H2",
+      "text": "What Not to Do ",
+      "page": 5
+    },
+    {
+      "level": "H1",
+      "text": "Round 1B: Persona-Driven Document Intelligence ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Theme: “Connect What Matters — For the User Who Matters” ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Challenge Brief (For Participants) ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "You will build a system that acts as an intelligent document analyst, extracting ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Input Specification ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "2. Document Collection: 3-10 related PDFs Persona Definition: Role ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "3. Job-to-be-Done: Concrete task the persona needs to accomplish ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Sample Test Cases ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 1: Academic Research ",
+      "page": 6
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 2: Business Analysis ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Test Case 3: Educational Content ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Required Output ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "The output should contain: ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "1. Metadata: ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "2. Extracted Section: ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "3. Sub-section Analysis: ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Deliverables ",
+      "page": 8
+    },
+    {
+      "level": "H2",
+      "text": "Sample input/output for testing ",
+      "page": 8
+    }
+  ]
+}

@@ -1,0 +1,335 @@
+{
+  "title": "Introduction to JavaScript",
+  "outline": [
+    {
+      "level": "H1",
+      "text": "Introduction JavaScript ",
+      "page": 1
+    },
+    {
+      "level": "H1",
+      "text": "Difference between java script and java: ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Java Script ",
+      "page": 2
+    },
+    {
+      "level": "H2",
+      "text": "Example ",
+      "page": 2
+    },
+    {
+      "level": "H3",
+      "text": "Comments in JavaScript: ",
+      "page": 2
+    },
+    {
+      "level": "H1",
+      "text": "Java Script Data Types ",
+      "page": 4
+    },
+    {
+      "level": "H1",
+      "text": "JavaScript Variables ",
+      "page": 5
+    },
+    {
+      "level": "H2",
+      "text": "What is an operator? ",
+      "page": 5
+    },
+    {
+      "level": "H3",
+      "text": "Comparison Operators ",
+      "page": 6
+    },
+    {
+      "level": "H1",
+      "text": "Logical (or Relational) Operators ",
+      "page": 7
+    },
+    {
+      "level": "H2",
+      "text": "Conditional Operator (? :) ",
+      "page": 7
+    },
+    {
+      "level": "H1",
+      "text": "? : (Conditional ) ",
+      "page": 8
+    },
+    {
+      "level": "H1",
+      "text": "Java Script Conditional Statements ",
+      "page": 9
+    },
+    {
+      "level": "H2",
+      "text": "Syntax ",
+      "page": 9
+    },
+    {
+      "level": "H1",
+      "text": "The while Loop ",
+      "page": 11
+    },
+    {
+      "level": "H2",
+      "text": "For Loop ",
+      "page": 12
+    },
+    {
+      "level": "H1",
+      "text": "Functions ",
+      "page": 13
+    },
+    {
+      "level": "H2",
+      "text": "Function Parameters ",
+      "page": 13
+    },
+    {
+      "level": "H3",
+      "text": "The return Statement ",
+      "page": 13
+    },
+    {
+      "level": "H1",
+      "text": "Onmouseover and onmouseout ",
+      "page": 14
+    },
+    {
+      "level": "H1",
+      "text": "Events ",
+      "page": 14
+    },
+    {
+      "level": "H2",
+      "text": "Onclick Event Type ",
+      "page": 14
+    },
+    {
+      "level": "H3",
+      "text": "Onsubmit Event type ",
+      "page": 15
+    },
+    {
+      "level": "H4",
+      "text": "HTML 5 Standard Events ",
+      "page": 16
+    },
+    {
+      "level": "H1",
+      "text": "Dialog Boxes ",
+      "page": 20
+    },
+    {
+      "level": "H2",
+      "text": "Alert Dialog Box ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Confirmation Dialog Box ",
+      "page": 20
+    },
+    {
+      "level": "H3",
+      "text": "Prompt Dialog Box ",
+      "page": 21
+    },
+    {
+      "level": "H1",
+      "text": "Objects ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Object Properties ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "Object Methods ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "User-Defined Objects ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "The Object () Constructor ",
+      "page": 22
+    },
+    {
+      "level": "H2",
+      "text": "Example; it demonstrates how to create an Object. ",
+      "page": 22
+    },
+    {
+      "level": "H1",
+      "text": "The 'with' Keyword ",
+      "page": 23
+    },
+    {
+      "level": "H2",
+      "text": "Example demonstrates how to create an object with a User-Defined Function. ",
+      "page": 23
+    },
+    {
+      "level": "H3",
+      "text": "Example; it shows how to add a function along with an object. ",
+      "page": 23
+    },
+    {
+      "level": "H1",
+      "text": "Builtin Objects ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "900.0 might write ",
+      "page": 25
+    },
+    {
+      "level": "H2",
+      "text": "Array Object ",
+      "page": 25
+    },
+    {
+      "level": "H1",
+      "text": "Some Math object methods are summarized below ",
+      "page": 26
+    },
+    {
+      "level": "H2",
+      "text": "String Object ",
+      "page": 27
+    },
+    {
+      "level": "H1",
+      "text": "Character processing ",
+      "page": 28
+    },
+    {
+      "level": "H2",
+      "text": "Searching Methods ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Searching Strings with indexOf and lastIndexOf ",
+      "page": 29
+    },
+    {
+      "level": "H3",
+      "text": "Splitting Strings and Obtaining Substrings ",
+      "page": 30
+    },
+    {
+      "level": "H2",
+      "text": "XHTML Markup Methods ",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Date Object ",
+      "page": 31
+    },
+    {
+      "level": "H2",
+      "text": "Boolean and Number Objects ",
+      "page": 33
+    },
+    {
+      "level": "H1",
+      "text": "Dynamic HTML with Java Script: ",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "JavaScript and the HTML DOM ",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Using the HTML DOM to Change an HTML Element ",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "My First Page ",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "Hello World! ",
+      "page": 35
+    },
+    {
+      "level": "H1",
+      "text": "Using the HTML DOM to Change an HTML Attribute ",
+      "page": 35
+    },
+    {
+      "level": "H2",
+      "text": "The getElementById Method ",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "The most common way to access an HTML element is to use the id of the element. ",
+      "page": 36
+    },
+    {
+      "level": "H4",
+      "text": "The innerHTML Property ",
+      "page": 36
+    },
+    {
+      "level": "H1",
+      "text": "The HTML DOM Document Object ",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "If you want to access any element in an HTML page, you always start with accessing the document ",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Finding HTML Elements ",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Finding HTML Element by Id ",
+      "page": 36
+    },
+    {
+      "level": "H2",
+      "text": "Finding HTML Elements by Tag Name ",
+      "page": 36
+    },
+    {
+      "level": "H3",
+      "text": "This example finds all <p> elements: ",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Finding HTML Elements by Class Name ",
+      "page": 37
+    },
+    {
+      "level": "H2",
+      "text": "Adding Events Handlers Method ",
+      "page": 39
+    }
+  ]
+}

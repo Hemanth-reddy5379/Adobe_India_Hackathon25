@@ -1,0 +1,92 @@
+{
+  "metadata": {
+    "persona": {
+      "role": "Travel Planner"
+    },
+    "task": "Plan a trip of 4 days for a group of 10 college friends.",
+    "documents": [
+      "South of France - Cities.pdf",
+      "South of France - Cuisine.pdf",
+      "South of France - History.pdf",
+      "South of France - Restaurants and Hotels.pdf",
+      "South of France - Things to Do.pdf",
+      "South of France - Tips and Tricks.pdf",
+      "South of France - Traditions and Culture.pdf"
+    ],
+    "total_sections": 117,
+    "timestamp": "2025-07-28T13:48:20.965660"
+  },
+  "sections": [
+    {
+      "title": "Overview of the Region ",
+      "level": "H1",
+      "page": 1,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Introduction ",
+      "level": "H1",
+      "page": 1,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Travel Tips ",
+      "level": "H1",
+      "page": 1,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Nice: The Jewel of the French Riviera ",
+      "level": "H1",
+      "page": 4,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Key Attractions ",
+      "level": "H2",
+      "page": 4,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Hidden Gems ",
+      "level": "H2",
+      "page": 4,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Cultural Highlights ",
+      "level": "H2",
+      "page": 4,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Avignon: The City of Popes ",
+      "level": "H1",
+      "page": 6,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Cultural Activities ",
+      "level": "H2",
+      "page": 6,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    },
+    {
+      "title": "Aix-en-Provence: A City of Art and Culture ",
+      "level": "H1",
+      "page": 7,
+      "content": "",
+      "document": "South of France - Cities.pdf"
+    }
+  ],
+  "subsections": []
+}
